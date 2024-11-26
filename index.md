@@ -4,7 +4,7 @@ title: Home
 ---
 # Welcome to my personal website
 
-Hi, I'm Julie Boisard, postdoctoral researcher in *all things -omics* at Lund University.
+Hi, I'm Julie, postdoctoral researcher in *all things -omics* at Lund University.
 
 I have a **bioinformatics** and **evolutionary biology** background.
 
