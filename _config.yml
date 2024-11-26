@@ -14,7 +14,7 @@ remote_theme: pages-themes/minimal@v0.2.0
 markdown: kramdown
 highlighter: rouge
 
-logo: "/assets/images/photo.png"
+logo: "/_assets/images/photo.png"
 
 univprofile: "https://portal.research.lu.se/en/persons/julie-boisard"
 googlescholar: "https://scholar.google.com/citations?hl=en&user=ta45Ne0AAAAJ"
@@ -22,4 +22,4 @@ orcid: "https://orcid.org/0000-0002-6191-6149"
 bluesky: "https://bsky.app/profile/protistsforthewin.bsky.social"
 github.is_user_page: "https://github.com/julieboisard"
 
-cv: "/assets/cv/cv.pdf"
+cv: "/_assets/cv/cv.pdf"
