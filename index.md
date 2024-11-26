@@ -12,7 +12,9 @@ I am a microbial eukaryotes enthousiast as well as a passionate (meta)genome hun
 
 ## Current projects
 
-### Upgrading microbial genomics: integrating long-read sequencing for enhanced taxonomic and metagenomic information
+### Upgrading microbial genomics
+
+#### Integrating long-read sequencing for enhanced taxonomic and metagenomic information
 
 In the intricate web of life, tiny microorganisms like **protists** and **prokaryotes** play monumental roles, often unseen and unrecognized. Think of them as nature's backstage crew, essential but behind the scenes. However, studying them isn't always straightforward. Current techniques can be likened to trying to understand a puzzle with many pieces missing. I aim to change that.
 
@@ -22,7 +24,9 @@ But why does this matter? A better understanding of these micro-worlds can guide
 
 In essence, with better tools, we're not just seeing more; we're understanding more. 
 
-### Protists -omics: Diving into Protists diversity through Long-Reads Metabarcoding, Metagenomics and Whole Genome Sequencing
+### Protists -omics
+
+#### Diving into Protists diversity through Long-Reads Metabarcoding, Metagenomics and Whole Genome Sequencing
 
 Microbial eukaryotes play a vital role in ecosystems by supporting nutrient cycling, food chains, and biodiversity. 
 
@@ -35,4 +39,5 @@ My research focuses on **whole-genome sequencing** of anaerobic protists - organ
 This approach allows to explore both the taxonomic diversity and functional complexity of microbial communities, offering a more complete understanding of their ecological roles in anoxic environments. 
 
 This project will help address the significant lack of genomic references for non-model eukaryotes, contributing valuable data to global databases and supporting future research in microbial ecology and evolutionary biology.
+
 
