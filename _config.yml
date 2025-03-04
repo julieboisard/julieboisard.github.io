@@ -14,7 +14,7 @@ remote_theme: pages-themes/minimal@v0.2.0
 markdown: kramdown
 highlighter: rouge
 
-logo: "/assets/images/photo.png"
+#logo: "/assets/images/photo.png"
 
 univprofile: "https://portal.research.lu.se/en/persons/julie-boisard"
 googlescholar: "https://scholar.google.com/citations?hl=en&user=ta45Ne0AAAAJ"
