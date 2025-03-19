@@ -4,7 +4,7 @@ title: Home
 ---
 # Welcome to my personal website
 
-Hi, I'm Julie, researcher in biology, dedicated to understand weird eukaryotic genomes, ie protists genomes.
+Hi, I'm Julie, researcher in biology, dedicated to understand *weird eukaryotic genomes*, i.e. **protist genomes**.
 
 I have a **bioinformatics** and **evolutionary biology** background.
 
