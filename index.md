@@ -4,7 +4,7 @@ title: Home
 ---
 
 
-## Evolutionary Genomics | Early-Diverging Eukaryotes
+## Evolutionary Genomics | Microbial Eukaryotes
 
 Understanding how genome structure evolves across the eukaryotic tree of life.
 
@@ -60,7 +60,7 @@ These data provide comparative frameworks for reconstructing early eukaryotic ge
 
 ### Technical Expertise
 
-* Long-read genome assembly (Oxford Nanopore)  
+* Long-read genome sequencing and assembly (Oxford Nanopore)  
 * Structural genome annotation and repeat analysis  
 * Gene model prediction and functional annotation  
 * Comparative genomics  
