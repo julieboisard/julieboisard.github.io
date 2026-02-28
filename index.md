@@ -4,13 +4,13 @@ title: Home
 ---
 
 
-# Evolutionary Genomics | Early-Diverging Eukaryotes
+## Evolutionary Genomics | Early-Diverging Eukaryotes
 
 Understanding how genome structure evolves across the eukaryotic tree of life.
 
 ---
 
-## About
+### About
 
 I am an evolutionary genomicist studying genome architecture in early-diverging eukaryotes.
 
@@ -20,11 +20,9 @@ By focusing on undersampled protist lineages, my work expands phylogenetic repre
 
 ---
 
-## Research Themes
+### Research Themes
 
----
-
-### 1. Genome Architecture and Structural Evolution
+#### 1. Genome Architecture and Structural Evolution
 
 Protein-coding genes represent only one layer of genome evolution, while large fractions of eukaryotic genomes consist of repetitive elements, non-coding regions, and structural features whose evolutionary dynamics remain poorly characterised in early-diverging lineages.
 
@@ -36,9 +34,8 @@ I am interested in how these structural components:
 
 My work examines genome architecture as an evolutionary dimension that may follow trajectories partially independent from gene repertoire change.
 
----
 
-### 2. Bioinformatic Tool Development for Comparative Genomics
+#### 2. Bioinformatic Tool Development for Comparative Genomics
 
 Studying genome architecture in divergent eukaryotes requires methodological innovation.
 
@@ -51,8 +48,7 @@ I develop and implement reproducible bioinformatic frameworks to support:
 
 Tool development in my research is driven by biological questions and improves analytical resolution in phylogenetically divergent, non-model systems.
 
-
-### 3. Protist Biodiversity and Deep Eukaryotic Lineages
+#### 3. Protist Biodiversity and Deep Eukaryotic Lineages
 
 Protists represent the majority of eukaryotic diversity yet remain underrepresented in genomic databases.
 
@@ -62,7 +58,7 @@ These data provide comparative frameworks for reconstructing early eukaryotic ge
 
 ---
 
-## Technical Expertise
+### Technical Expertise
 
 * Long-read genome assembly (Oxford Nanopore)  
 * Structural genome annotation and repeat analysis  
@@ -74,7 +70,7 @@ These data provide comparative frameworks for reconstructing early eukaryotic ge
 
 ---
 
-## Selected Publications
+### Selected Publications
 
 Boisard, J., Williams, S.K., Roger, A.J., & Stairs, C.W. (2026).
 CoMR: an integrative scoring pipeline for comprehensive mitochondrial proteome reconstruction across eukaryotes.
