@@ -14,7 +14,7 @@ remote_theme: pages-themes/minimal@v0.2.0
 markdown: kramdown
 highlighter: rouge
 
-logo: "/assets/images/photo_2.png"
+logo: "/assets/images/photo_1.png"
 logo_width: 100px
 
 univprofile: "https://portal.research.lu.se/en/persons/julie-boisard"

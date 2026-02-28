@@ -6,7 +6,7 @@ title: Home
 
 ## Evolutionary Genomics | Microbial Eukaryotes
 
-Understanding how genome structure evolves across the eukaryotic tree of life.
+How does genome structure evolve across the eukaryotic tree of life?
 
 ---
 
