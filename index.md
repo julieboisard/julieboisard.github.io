@@ -4,7 +4,7 @@ title: Home
 ---
 
 
-# Evolutionary Genomics | Genome Architecture | Early-Diverging Eukaryotes
+# Evolutionary Genomics | Early-Diverging Eukaryotes
 
 Understanding how genome structure evolves across the eukaryotic tree of life.
 
@@ -70,7 +70,8 @@ These data provide comparative frameworks for reconstructing early eukaryotic ge
 * Comparative genomics  
 * Phylogenetic reconstruction  
 * Reproducible computational workflows   
-* Protist culturing and genomic sample preparation  
+* Protist culturing and genomic sample preparation
+
 ---
 
 ## Selected Publications
@@ -82,6 +83,7 @@ https://doi.org/10.1101/2026.02.20.707009
 
 (Integrative bioinformatic framework for mitochondrial proteome reconstruction in model and non-model eukaryotes.)
 
+
 Aguilera-Campos, K.I., Boisard, J. et al. (2025).
 Anaerobic breviate protist survival in microcosms depends on microbiome metabolic function.
 The ISME Journal 19(1): wraf171.
@@ -89,12 +91,14 @@ https://doi.org/10.1093/ismejo/wraf171
 
 (Metagenomic characterisation of prokaryotic partners associated with anaerobic breviates.)
 
+
 Boisard, J. et al. (2022).
 Marine gregarine genomes reveal the breadth of apicomplexan diversity with a partially conserved glideosome machinery.
 BMC Genomics 23:485.
 https://doi.org/10.1186/s12864-022-08700-8
 
 (Comparative genomics and structural diversification in divergent apicomplexans.)
+
 
 Boisard, J. & Florent, I. (2020).
 Why the -omic future of Apicomplexa should include gregarines.
