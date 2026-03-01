@@ -4,13 +4,13 @@ title: ""
 ---
 
 
-## Evolutionary Genomics | Early-Diverging Eukaryotes
+## Genome Architecture in Early-Diverging Eukaryotes
 
 <p class="hero-subtitle">How does genome structure evolve across the eukaryotic tree of life?</p>
 
 ---
 
-### About me
+### About
 
 I am an evolutionary genomicist studying genome architecture in early-diverging eukaryotes.
 
