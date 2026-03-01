@@ -70,6 +70,7 @@
 
       </section>
 
+      {% if site.nav_links and site.nav_links.size > 0 %}
       <nav>
         <ul>
           {% for link in site.nav_links %}
@@ -77,6 +78,7 @@
           {% endfor %}
         </ul>
       </nav>
+      {% endif %}
 
       <footer>
         {% if site.github.is_project_page %}
