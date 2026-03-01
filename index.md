@@ -4,7 +4,7 @@ title: ""
 ---
 
 
-## Evolutionary Genomics | Microbial Eukaryotes
+## Evolutionary Genomics | Genome Architecture | Early-Diverging Eukaryotes
 
 How does genome structure evolve across the eukaryotic tree of life?
 
